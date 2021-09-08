@@ -1,4 +1,4 @@
-# Recursively iterating lambda functions
+# Recursive function iteration
 
 # Checks if variable is contained within the scope or any sub-scope of an array object (i.e., sub-arrays, sub-sub-arrays, sub-sub-sub-arrays, etc.).
 def array_check( needle, haystack ):
